@@ -79,5 +79,7 @@ def main():
             break
         else:
             print("Нет такого варианта ответа.\nПопробуйте снова.")
+
+            
 if __name__ == "__main__":
     main()
